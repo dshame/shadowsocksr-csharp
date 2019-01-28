@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace Shadowsocks.Obfs
 {
+    /// <summary>
+    /// xuexi.
+    /// </summary>
     public class Plain : ObfsBase
     {
         public Plain(string method)
